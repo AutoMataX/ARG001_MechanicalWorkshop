@@ -1,0 +1,19 @@
+{
+  "name": "Tema Corporativo CAMSA",
+  "dataColors": [
+    "#0E0D40", 
+    "#090826",
+    "#F2F2F2",
+    "#D9831A",
+    "#F28627"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "visualTitle": [{
+          "fontColor": {"solid": {"color": "#333333"}}
+        }]
+      }
+    }
+  }
+}
